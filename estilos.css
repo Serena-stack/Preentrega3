@@ -177,13 +177,14 @@ a{
     margin: 50px 0;
 }
 
-.container{
+.container {
     width: 20%;
     margin: 15px;
     box-sizing: border-box;
     float: left;
     text-align: center;
     border-radius: 20px;
+}
     li{
         padding-top: 5px;
     }
@@ -226,9 +227,7 @@ a{
         background: #bb6540;
     }
     
-    @media screen {max-width: 1000px;
-        
-    }
+
     .container{
         width: 100%;
     }
